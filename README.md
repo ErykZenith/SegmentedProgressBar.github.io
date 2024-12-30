@@ -1,1 +1,1 @@
-# https://erykzenith.github.io/SegmentedProgressBar.github.io/
+https://erykzenith.github.io/SegmentedProgressBar.github.io/
